@@ -36,7 +36,7 @@ public class searchProducts extends amazonBase {
 ap= new amazonPage(driver);
 ap.clickOnsearchButton();
 
-//hi
+//hi hi
 	}
 
 	@Then("i can see the serach result successfully")

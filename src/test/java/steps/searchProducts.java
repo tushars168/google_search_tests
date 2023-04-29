@@ -27,6 +27,9 @@ public class searchProducts extends amazonBase {
 	public void i_enter_the_in_the_search_bar(String product_name) {
 	    ap= new amazonPage(driver);
 	    ap.enterTextonSearchBar(product_name);
+	    
+	    
+	    //////hi how are u, i am ok
 		
 	}
 
